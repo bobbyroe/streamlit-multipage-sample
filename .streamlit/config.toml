@@ -1,2 +1,9 @@
 [theme]
-base="dark"
+primaryColor = "#efefef"
+backgroundColor = "#202020"
+secondaryBackgroundColor = "#404040"
+textColor = "#ffffff"
+font = "sans serif"
+
+[global]
+disableThemeSwitcher = true
